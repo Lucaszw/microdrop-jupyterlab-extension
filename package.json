@@ -14,8 +14,14 @@
     "extension": true
   },
   "dependencies": {
-    "@mqttclient/web": "0.0.9",
+    "@jupyterlab/application": "^0.11.1",
+    "@jupyterlab/apputils": "^0.11.1",
+    "@jupyterlab/coreutils": "^0.11.1",
+    "@jupyterlab/launcher": "^0.11.1",
+    "@mqttclient/web": "0.0.14",
+    "@phosphor/widgets": "^1.5.0",
     "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
     "mustache": "^2.3.0"
