@@ -19,7 +19,7 @@
     "@jupyterlab/coreutils": "^0.12.0",
     "@jupyterlab/launcher": "^0.12.0",
     "@microdrop/buildutils": "0.0.3",
-    "@mqttclient/web": "0.0.14",
+    "@mqttclient/web": "^0.1.7",
     "@phosphor/widgets": "^1.5.0",
     "bootstrap": "^4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
