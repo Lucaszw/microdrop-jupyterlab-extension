@@ -1,6 +1,6 @@
 {
   "name": "@microdrop/jupyterlab_extension",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Microdrop JupyterLab Extension.",
   "author": "lucaszw",
   "main": "lib/plugin.js",
