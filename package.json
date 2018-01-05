@@ -21,7 +21,7 @@
     "@jupyterlab/launcher": "^0.13.2",
     "@microdrop/async": "^0.2.33",
     "@microdrop/buildutils": "0.0.5",
-    "@microdrop/state-saver": "0.0.13",
+    "@microdrop/state-saver": "0.0.15",
     "@mqttclient/web": "^0.1.7",
     "@phosphor/widgets": "^1.5.0",
     "bootstrap": "^4.0.0-alpha.6",
