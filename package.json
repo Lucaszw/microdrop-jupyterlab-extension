@@ -14,12 +14,12 @@
     "extension": true
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.12.0",
-    "@jupyterlab/apputils": "^0.12.4",
-    "@jupyterlab/coreutils": "^0.12.0",
-    "@jupyterlab/docregistry": "^0.12.0",
-    "@jupyterlab/launcher": "^0.12.0",
-    "@microdrop/async": "^0.2.31",
+    "@jupyterlab/application": "^0.13.1",
+    "@jupyterlab/apputils": "^0.13.1",
+    "@jupyterlab/coreutils": "^0.13.0",
+    "@jupyterlab/docregistry": "^0.14.1",
+    "@jupyterlab/launcher": "^0.13.2",
+    "@microdrop/async": "^0.2.33",
     "@microdrop/buildutils": "0.0.5",
     "@microdrop/state-saver": "0.0.13",
     "@mqttclient/web": "^0.1.7",
@@ -34,6 +34,7 @@
     "@jupyterlab/application",
     "@jupyterlab/apputils",
     "@jupyterlab/coreutils",
+    "@jupyterlab/docregistry",
     "@jupyterlab/launcher",
     "@phosphor/widgets"
   ],
